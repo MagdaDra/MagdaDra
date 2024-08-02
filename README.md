@@ -12,7 +12,7 @@
 </br>
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> 
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="blank" rel="noreferrer" text-decoration="none" > 
+  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="blank" rel="noreferrer" text-decoration="blank" > 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="30" height="30" /> 
   </a>
   &nbsp

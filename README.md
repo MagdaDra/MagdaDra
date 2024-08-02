@@ -52,12 +52,12 @@
     <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> 
   </a> 
   &nbsp
-    <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> 
+  <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> 
     <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTSDKn3vA2YUbXzN0ZC3gALWJ08gJN-Drl15w&s" alt="tailwind" width="40" height="40"/> 
   </a> 
   &nbsp
-    <a href="https://v2.chakra-ui.com/" target="_blank" rel="noreferrer"> 
-    <img src="https://avatars.githubusercontent.com/u/54212428?s=280&v=4" alt="tailwind" width="40" height="40"/> 
+  <a href="https://v2.chakra-ui.com/" target="_blank" rel="noreferrer"> 
+    <img src="https://avatars.githubusercontent.com/u/54212428?s=280&v=4" alt="chakra" width="40" height="40"/> 
   </a> 
 </p>
 </br>

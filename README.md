@@ -12,8 +12,8 @@
 </br>
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> 
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="blank" rel="noreferrer" style="text-decoration:none;" > 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" style="text-decoration:none;" width="30" height="30"/> 
+  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="blank" rel="noreferrer" style="text-decoration:unset;" > 
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="30" height="30"/> 
   </a>
   &nbsp
   <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> 

@@ -51,6 +51,13 @@
     <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> 
   </a> 
   &nbsp
+    <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> 
+    <img src="https://w7.pngwing.com/pngs/293/485/png-transparent-tailwind-css-hd-logo.png" alt="tailwind" width="40" height="40"/> 
+  </a> 
+  &nbsp
+    <a href="https://v2.chakra-ui.com/" target="_blank" rel="noreferrer"> 
+    <img src="https://image.pngaaa.com/704/7959704-middle.png" alt="tailwind" width="40" height="40"/> 
+  </a> 
 </p>
 </br>
 </br>

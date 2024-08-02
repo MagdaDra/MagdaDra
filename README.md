@@ -56,7 +56,7 @@
   </a> 
   &nbsp
     <a href="https://v2.chakra-ui.com/" target="_blank" rel="noreferrer"> 
-    <img src="https://image.pngaaa.com/704/7959704-middle.png" alt="tailwind" width="40" height="40"/> 
+    <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTSDKn3vA2YUbXzN0ZC3gALWJ08gJN-Drl15w&s" alt="tailwind" width="40" height="40"/> 
   </a> 
 </p>
 </br>

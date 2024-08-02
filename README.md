@@ -28,7 +28,7 @@
   </a> 
   &nbsp
   <a href="https://expressjs.com" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> 
+    <img src="https://adware-technologies.s3.amazonaws.com/uploads/technology/thumbnail/20/express-js.png" alt="express" width="40" height="40"/> 
   </a> 
   &nbsp
   <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> 

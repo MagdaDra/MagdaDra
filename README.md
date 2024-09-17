@@ -1,6 +1,5 @@
 # Hi, I'm Magda 👩🏻‍💻
 - 💻 Software Developer
-- 🪄 Ironhack Bootcamp Student
 - ☁️ Currently working as Logistics Operations Lead at Cloudflare
 
 </br>

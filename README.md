@@ -62,7 +62,10 @@
 </br>
 </br>
 </br>
-
+  <p>
+  <img align="left" src="https://github-readme-stats.vercel.app/api?username=magdadra&show_icons=true&locale=en" alt="magdadra" width="400" height="150" /> 
+  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=magdadra&" alt="magdadra" width="400" height="150" />
+</p>
 </br>
 
 

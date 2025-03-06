@@ -1,4 +1,4 @@
-# Hi, I'm Magda 👩🏻‍💻
+# Hi, I'm Magda
 - 💻 Software Developer
 - ☁️ Currently working as Logistics Operations Lead at Cloudflare
 
